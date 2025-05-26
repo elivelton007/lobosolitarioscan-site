@@ -1,2 +1,2 @@
 # lobosolitarioscan-site
-Site para leitura de mangás, Manhwas e Manhua
+Site para leitura de mangás, Manhwas e Manhuas
